@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
 body {
     /* Сброс стандартых стилей */
     margin: 0;
+    font-family: 'Playfair Display', serif;
 }
 
 .nav {
